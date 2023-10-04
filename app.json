@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "description": "L'applicazione ufficiale fornita da Barocco S.p.A. ai propri Clienti per gestire la fornitura di energia elettrica e gas naturale.",
+    "name": "Barocco Gas e Luce",
+    "slug": "barocco_gas_e_luce",
+    "version": "201",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "sdkVersion": "49.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#8ace6f"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "201",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.baroccospa.app"
+    },
+    "android": {
+      "versionCode": 20001,
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.baroccospa.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b0277166-96a9-4402-b9ff-7d413d82741a"
+      }
+    }
+  }
+}
