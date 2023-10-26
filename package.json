@@ -8,25 +8,27 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@react-native-community/cookies": "^5.0.1",
-    "@react-native-community/netinfo": "^5.9.10",
-    "expo": "~40.0.0",
+    "@react-native-community/netinfo": "9.3.10",
+    "expo": "^49.0.6",
     "expo-app-loading": "^1.0.1",
+    "expo-build-properties": "^0.8.3",
     "expo-cli": "^6.3.10",
-    "expo-status-bar": "~1.0.3",
-    "expo-updates": "~0.4.1",
+    "expo-modules-autolinking": "~1.5.0",
+    "expo-status-bar": "~1.6.0",
+    "expo-updates": "~0.18.16",
     "metro-core": "^0.58.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.5",
     "react-native-fs": "^2.20.0",
     "react-native-loading-spinner-overlay": "git+https://github.com/joinspontaneous/react-native-loading-spinner-overlay.git",
-    "react-native-svg": "^12.1.0",
-    "react-native-web": "~0.13.12",
-    "react-native-webview": "^11.0.2"
+    "react-native-svg": "13.9.0",
+    "react-native-web": "~0.19.6",
+    "react-native-webview": "13.2.2",
+    "expo-dev-client": "~2.4.11"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "^7.20.0"
   },
   "private": true
 }

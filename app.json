@@ -6,7 +6,6 @@
     "version": "201",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "sdkVersion": "49.0.0",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "cover",

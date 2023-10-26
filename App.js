@@ -8,7 +8,7 @@ import NetInfo from "@react-native-community/netinfo";
 import Svg, {Path} from 'react-native-svg';
 
 const primaryColor = '#8ace6f'
-const app_url = 'https://app.baroccospa.it'
+const app_url = 'https://app.uniongaseluce.it'
 const fattura_url = 'https://areaclienti.uniongaseluce.it/ubik/'
 const STATUSBAR_HEIGHT = Constants.statusBarHeight
 export default class App extends React.Component {
